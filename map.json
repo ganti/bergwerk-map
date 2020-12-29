@@ -377,36 +377,174 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":32,
          "firstgid":1,
-         "source":"tiles\/LPC_Terrain\/terrain.tsx"
+         "image":"tiles\/LPC_Terrain\/terrain.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"terrain",
+         "spacing":0,
+         "terrains":[
+                {
+                 "name":"h\u00f6hlenweg",
+                 "tile":46
+                }],
+         "tilecount":1024,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":13,
+                 "terrain":[0, 0, 0, -1]
+                }, 
+                {
+                 "id":14,
+                 "terrain":[0, 0, -1, 0]
+                }, 
+                {
+                 "id":45,
+                 "terrain":[0, -1, 0, 0]
+                }, 
+                {
+                 "id":46,
+                 "terrain":[-1, 0, 0, 0]
+                }, 
+                {
+                 "id":76,
+                 "terrain":[-1, -1, -1, 0]
+                }, 
+                {
+                 "id":77,
+                 "terrain":[-1, -1, 0, 0]
+                }, 
+                {
+                 "id":78,
+                 "terrain":[-1, -1, 0, -1]
+                }, 
+                {
+                 "id":108,
+                 "terrain":[-1, 0, -1, 0]
+                }, 
+                {
+                 "id":109,
+                 "terrain":[0, 0, 0, 0]
+                }, 
+                {
+                 "id":110,
+                 "terrain":[0, -1, 0, -1]
+                }, 
+                {
+                 "id":140,
+                 "terrain":[-1, 0, -1, -1]
+                }, 
+                {
+                 "id":141,
+                 "terrain":[0, 0, -1, -1]
+                }, 
+                {
+                 "id":142,
+                 "terrain":[0, -1, -1, -1]
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":8,
          "firstgid":1025,
-         "source":"tiles\/tileset-3\/d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6.tsx"
+         "image":"tiles\/tileset-3\/d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6.png",
+         "imageheight":11000,
+         "imagewidth":256,
+         "margin":0,
+         "name":"d4hnezn-3844d292-7239-4608-bcc4-31254ddb37c6",
+         "spacing":0,
+         "tilecount":2744,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":8,
          "firstgid":3769,
-         "source":"tiles\/nature1.tsx"
+         "image":"tiles\/nature1.png",
+         "imageheight":6000,
+         "imagewidth":256,
+         "margin":0,
+         "name":"nature1",
+         "spacing":0,
+         "tilecount":1496,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":32,
          "firstgid":5265,
-         "source":"tiles\/nature2.tsx"
+         "image":"tiles\/nature2.png",
+         "imageheight":2016,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"nature2",
+         "spacing":0,
+         "tilecount":2016,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":16,
          "firstgid":7281,
-         "source":"tiles\/enviromental\/environment_tileset_by_reidyaro_d4v6k4z.tsx"
+         "image":"tiles\/enviromental\/environment_tileset_by_reidyaro_d4v6k4z.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"environment_tileset_by_reidyaro_d4v6k4z",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":7,
          "firstgid":7537,
-         "source":"tiles\/foo\/minideko.tsx"
+         "image":"tiles\/foo\/minideko.png",
+         "imageheight":416,
+         "imagewidth":224,
+         "margin":0,
+         "name":"minideko",
+         "spacing":0,
+         "tilecount":91,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":16,
          "firstgid":7628,
-         "source":"tiles\/foo\/rc3-mullana-functionary.tsx"
+         "image":"tiles\/foo\/rc3-mullana-functionary.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"rc3-mullana-functionary",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
+         "columns":6,
          "firstgid":7884,
-         "source":"tiles\/foo\/synth.tsx"
+         "image":"tiles\/foo\/synth.png",
+         "imageheight":192,
+         "imagewidth":192,
+         "margin":0,
+         "name":"synth",
+         "spacing":0,
+         "tilecount":36,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }],
  "tilewidth":32,
  "type":"map",
