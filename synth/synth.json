@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/main.json#dinna"
+                 "value":"main.json#dinna"
                 }],
          "type":"tilelayer",
          "visible":true,
