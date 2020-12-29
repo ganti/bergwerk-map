@@ -135,10 +135,22 @@
          "tiles":[
                 {
                  "id":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, 0, 0, -1]
                 }, 
                 {
                  "id":2,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, 0, -1, 0]
                 }, 
                 {
@@ -187,10 +199,22 @@
                 }, 
                 {
                  "id":33,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, -1, 0, 0]
                 }, 
                 {
                  "id":34,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, 0, 0, 0]
                 }, 
                 {
@@ -239,14 +263,32 @@
                 }, 
                 {
                  "id":64,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, -1, -1, 0]
                 }, 
                 {
                  "id":65,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, -1, 0, 0]
                 }, 
                 {
                  "id":66,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, -1, 0, -1]
                 }, 
                 {
@@ -317,6 +359,12 @@
                 }, 
                 {
                  "id":96,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, 0, -1, 0]
                 }, 
                 {
@@ -325,6 +373,12 @@
                 }, 
                 {
                  "id":98,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, -1, 0, -1]
                 }, 
                 {
@@ -395,14 +449,32 @@
                 }, 
                 {
                  "id":128,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[-1, 0, -1, -1]
                 }, 
                 {
                  "id":129,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, 0, -1, -1]
                 }, 
                 {
                  "id":130,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "terrain":[0, -1, -1, -1]
                 }, 
                 {
