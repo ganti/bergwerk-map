@@ -399,6 +399,12 @@
                 }, 
                 {
                  "id":97,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }],
                  "terrain":[0, 0, 0, 0]
                 }, 
                 {
@@ -477,6 +483,12 @@
                 }, 
                 {
                  "id":109,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }],
                  "terrain":[1, 1, 1, 1]
                 }, 
                 {
