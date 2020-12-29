@@ -443,87 +443,6 @@
                  "terrain":[-1, 0, 0, 0]
                 }, 
                 {
-                 "id":64,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":65,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":66,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":67,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":68,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":69,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":70,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":71,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":72,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":73,
                  "properties":[
                         {
@@ -581,15 +500,6 @@
                  "terrain":[-1, -1, 0, -1]
                 }, 
                 {
-                 "id":96,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
                  "id":97,
                  "properties":[
                         {
@@ -599,61 +509,7 @@
                         }]
                 }, 
                 {
-                 "id":98,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":99,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":100,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":101,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":102,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
                  "id":103,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":104,
                  "properties":[
                         {
                          "name":"collides",
@@ -717,87 +573,6 @@
                          "value":true
                         }],
                  "terrain":[0, -1, 0, -1]
-                }, 
-                {
-                 "id":128,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":129,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":130,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
-                 "id":131,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":132,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":133,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":134,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":135,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":136,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
                 }, 
                 {
                  "id":137,
