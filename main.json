@@ -500,15 +500,6 @@
                  "terrain":[-1, -1, 0, -1]
                 }, 
                 {
-                 "id":97,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":false
-                        }]
-                }, 
-                {
                  "id":103,
                  "properties":[
                         {
