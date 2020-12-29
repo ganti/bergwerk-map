@@ -248,7 +248,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"startLayer",
+                 "name":"silent",
                  "type":"bool",
                  "value":true
                 }],
